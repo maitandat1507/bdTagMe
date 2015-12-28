@@ -1,7 +1,5 @@
 <?php
 
-
-//123
 class bdTagMe_Installer
 {
     /* Start auto-generated lines of code. Change made will be overwriten... */
